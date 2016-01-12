@@ -1,0 +1,17 @@
+.rst-source {
+  padding-left: 3em;
+  resize: none;
+  font-family: monospace;
+  background: transparent;
+}
+
+.rst-syntax {
+  color: #aaa;
+  overflow: hidden;
+  font-family: monospace;
+  background: transparent;
+}
+.rst-syntax .error-line {
+  color: #a33;
+  background: #fbb;
+}

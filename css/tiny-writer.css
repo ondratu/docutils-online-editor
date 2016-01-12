@@ -1,0 +1,37 @@
+pre.code > * {
+    background: transparent;
+    border: 0;
+    box-shadow: none;
+}
+pre.code > b {
+    color: #b02c29;
+}
+pre.code > u, pre.code > var {
+    color: #306900;
+    text-decoration: none;
+}
+pre.code > i {
+    color: #005089;
+    font-style: normal;
+}
+pre.code > i > b {
+    color: #CA8400;
+    font-weight: normal;
+}
+pre.code > em, pre.code > kbd {
+    color: #0000B0;
+    font-style: normal;
+}
+pre.code > tt {
+    color: #666;
+}
+
+code.param {
+    white-space: pre;
+    font-weight: bold;
+    margin-left: 1em;
+}
+
+.citations td:first-child {
+    white-space: nowrap;
+}
