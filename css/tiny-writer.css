@@ -1,6 +1,8 @@
 pre.code > * {
-    background: transparent;
+    margin: 0;
+    padding: 0;
     border: 0;
+    background: transparent;
     box-shadow: none;
 }
 pre.code > b {
